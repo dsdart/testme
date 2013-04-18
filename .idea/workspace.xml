@@ -26,7 +26,16 @@
       <file leaf-file-name="input.module" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/modules/input/input.module">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="1" selection-start="1529" selection-end="1529" vertical-scroll-proportion="0.9736842">
+            <state line="74" column="1" selection-start="1806" selection-end="1806" vertical-scroll-proportion="0.95046437">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03.input.module.validation.step" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/input/steps/03.input.module.validation.step">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="1808" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -378,11 +387,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../public_html/sites/all/modules/webform/webform.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="4" selection-start="4639" selection-end="5127" vertical-scroll-proportion="1.3942307" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/acme/templates/page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="222" column="0" selection-start="8962" selection-end="8962" vertical-scroll-proportion="0.0">
@@ -484,9 +488,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/input/steps/03.input.module.validation.step">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1808" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/modules/input/input.module">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="1" selection-start="1529" selection-end="1529" vertical-scroll-proportion="0.9736842">
+        <state line="74" column="1" selection-start="1806" selection-end="1806" vertical-scroll-proportion="0.95046437">
           <folding />
         </state>
       </provider>
